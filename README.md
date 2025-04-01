@@ -50,8 +50,8 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
  ```
-Developed by : Priyanka K
-Register No. : 212223230162
+Developed by : SUBHIKSHAA M
+Register No. : 212222230151
 
 import numpy as np
 import pandas as pd
